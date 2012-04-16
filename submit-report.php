@@ -10,7 +10,7 @@
 
 // Constants used to geocode an address.
 define("MAPS_LOOKUP_BASE_URL", "http://maps.googleapis.com/maps/api/geocode/json");
-define("USHAHIDI_BASE_URL", "http://mappingthemangroves.qfi.org");
+define("USHAHIDI_BASE_URL", "http://mappingthemangroves.qfi.org/api");
 define("USHAHIDI_USER_NAME", "api");
 define("USHAHIDI_PASSWORD", "f1ibGi25tBXXo3f7");
 
