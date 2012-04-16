@@ -10,9 +10,9 @@
 
 // Constants used to geocode an address.
 define("MAPS_LOOKUP_BASE_URL", "http://maps.googleapis.com/maps/api/geocode/json");
-define("USHAHIDI_BASE_URL", "");
-define("USHAHIDI_USER_NAME", "");
-define("USHAHIDI_PASSWORD", "");
+define("USHAHIDI_BASE_URL", "http://mappingthemangroves.qfi.org");
+define("USHAHIDI_USER_NAME", "api");
+define("USHAHIDI_PASSWORD", "f1ibGi25tBXXo3f7");
 
 // Date of the incident (set at script load).
 $date = getdate();
